@@ -48,10 +48,4 @@ Welcome to my cybersecurity portfolio! This repository showcases my hands-on pro
 ✔ Nikto  
 ✔ John the Ripper  
 ✔ Cain & Abel  
-✔ Python for security scripting  
-
----
-
-## 📩 Contact  
-**Email:** deletria.taylor@gmail.com  
-**LinkedIn:** [linkedin.com/in/deletria-taylor-b43465332](http://linkedin.com/in/deletria-taylor-b43465332)
+✔ Python for security scripting 
